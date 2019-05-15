@@ -1,3 +1,5 @@
+https://hackmd.io/PuVn7iVFSsaRZBKc22Gf2A
+
 # lab0-c
 Assessing Your C Programming Skills
 
